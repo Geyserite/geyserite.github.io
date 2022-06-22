@@ -5,12 +5,12 @@ layout: default
 # Recent Work
 
 ## Refereed Publications
-**Reed, M. H.**, Munoz-Saez, C., Hajimirza, S., Wu, S.-M., Barth, A., Girona, T., et al. (2021). The 2018 reawakening and eruption dynamics of Steamboat Geyser, the world’s tallest active geyser. *Proceedings of the National Academy of Sciences*, *118*(2). https://doi.org/10.1073/pnas.2020943118
+**Reed, M. H.**, Munoz-Saez, C., Hajimirza, S., Wu, S.-M., Barth, A., Girona, T., et al. (2021). The 2018 reawakening and eruption dynamics of Steamboat Geyser, the world’s tallest active geyser. *Proceedings of the National Academy of Sciences*, *118*(2). [https://doi.org/10.1073/pnas.2020943118](https://doi.org/10.1073/pnas.2020943118)
 
 ## General Audience Publications
-**Reed, M. H.**, & Manga, M. (2021). A mysterious reawaking of the world’s tallest geyser from decades of sleep. *TheScienceBreaker*, *7*(3). https://doi.org/10.25250/thescbr.brk575
+**Reed, M. H.**, & Manga, M. (2021). A mysterious reawaking of the world’s tallest geyser from decades of sleep. *TheScienceBreaker*, *7*(3). [https://doi.org/10.25250/thescbr.brk575](https://doi.org/10.25250/thescbr.brk575)
 
-**Reed, M. H.**, & Manga, M. (2021). Insights into the eruptions of Steamboat Geyser. *Yellowstone Caldera Chronicles*. https://www.usgs.gov/observatories/yvo/news/insights-eruptions-steamboat-geyser
+**Reed, M. H.**, & Manga, M. (2021). Insights into the eruptions of Steamboat Geyser. *Yellowstone Caldera Chronicles*. [https://www.usgs.gov/observatories/yvo/news/insights-eruptions-steamboat-geyser](https://www.usgs.gov/observatories/yvo/news/insights-eruptions-steamboat-geyser)
 
 Maurer, R., **Reed, M. H.**, Cooper, K., & Overwijk, J. (2020). The gazer’s guide to remotely enjoying Steamboat Geyser: Part II. *The Geyser Gazer Sput*, *34*(6), 9–11.
 
