@@ -1,5 +1,4 @@
-# About
-<img id="mara" src="https://raw.githubusercontent.com/Geyserite/geyserite.github.io/main/assets/img/mara.png" alt="Headshot of Mara in bright winter clothing." width="250" style="display: block; margin: 0 auto"/>
+<img id="mara" src="https://raw.githubusercontent.com/Geyserite/geyserite.github.io/main/assets/img/mara.png" alt="Headshot of Mara in bright winter clothing." width="200" style="display: block; margin: 0 auto"/>
 
 Hi, I'm Mara &mdash; your friendly hydrothermal zealot. I am a graduate student in the [Department of Earth and Planetary Science](https://eps.berkeley.edu) at the University of California, Berkeley. Geysers are my thing. Specific interests include the triggering mechanisms for geyser reactivation and dormancy, the controls on eruption intervals, and deploying and managing the data from monitoring systems.
 
