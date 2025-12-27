@@ -35,5 +35,6 @@ Science journalists rock. Here are cool stories featuring research I've been inv
 
 ## In Podcasts
 I said some words for a few podcast episodes:
+- *Bison Jam* Season 2, episodes 3 and 4: [How do Geysers Work?](https://www.bisonjam.com/2374227/episodes/17491822-the-hot-side-of-yellowstone-how-do-geysers-work) and [Steamboat, Yellowstone's Tallest Geyser!](https://www.bisonjam.com/2374227/episodes/17517858-the-hot-side-of-yellowstone-steamboat-yellowstone-s-tallest-geyser)
 - *Hello, Nature* episode 5: [Hello, Yellowstone](https://hello-nature.simplecast.com/episodes/ep-5-hello-yellowstone-EU93Myza)
 - *PNAS Science Sessions*: [Eruption of Steamboat Geyser](https://www.pnas.org/post/podcast/eruption-steamboat-geyser)
